@@ -2,7 +2,7 @@
 
 
 ### 👋 Introduction
-안녕하세요 데이터 분석가를 목표로 공부하고 있는 🔥<b>문세진<b/>🔥 입니다!
+안녕하세요 데이터 분석가를 목표로 공부하고 있는 🔥<b>문세진</b>🔥 입니다!
 
 ### 🌴 Currently Learning...
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
