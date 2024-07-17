@@ -8,7 +8,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) 
 [![Statistics](https://img.shields.io/badge/Statistics-009688?style=flat-square&logo=Statistics&logoColor=white)](https://www.yes24.com/Product/Goods/114874176)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
 ### 🛠️ Stacks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
