@@ -49,6 +49,10 @@
 - SQL Developer (SQLD)
 
 ---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/moonsejin315?pet-id=1" width="1000" height="120"/>
+</a>
+---
 
 ## 💌 BLOG & E-mail & SNS 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?logo=tistory)](https://moonsejin315.tistory.com/)
