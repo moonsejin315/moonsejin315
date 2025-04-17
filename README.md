@@ -8,39 +8,61 @@
 ## ✨ Experiences
 |활동|기간|비고|
 |---|---|---|
-|Sangmyung Univ. Software|2020.03 ~ 재학중|-|
-|육군 2군단 512 방공대대|2021.01 ~ 2022.07|만기전역|
-|Likelion Univ 11th|2023|[[수료증](https://github.com/moonsejin315/Python/blob/main/%E1%84%86%E1%85%A5%E1%86%BA%E1%84%89%E1%85%A111%E1%84%80%E1%85%B5%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg)]|
-|Google Developer Student Clubs (GDSC) 23-25 Data/ML|2024.08 ~ 진행중|-|
-|2기 천안형 스타 디지털 인재육성 프로그램|2024.04~ 2024.08|[[수료증](https://github.com/moonsejin315/Python/blob/main/ML/%E1%84%8C%E1%85%A62%E1%84%80%E1%85%B5%20%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A5%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A2%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)]|
-|네이버 부스트코스 코칭스터디 <Data Science 2024>|2024.07 ~ 2024.08|[[수료증](https://github.com/moonsejin315/BoostCourse/blob/main/BoostCourse%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)]|
+|BDA(Big Data Analysis) 학회 10기|2025 ~ 진행중|지표설계 및 고객분석|
 |네이버 부스트코스 코칭스터디 <Generative AI 2024>|2024.10 ~ 2024.11|[[수료증](https://github.com/moonsejin315/BoostCourse/blob/main/certificate_A20241129-102731.pdf)]|
-|BDA(Big Data Analysis) 학회 9기|2024 ~ 진행중|-|
+|네이버 부스트코스 코칭스터디 <Data Science 2024>|2024.07 ~ 2024.08|[[수료증](https://github.com/moonsejin315/BoostCourse/blob/main/BoostCourse%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)]|
+|2기 천안형 스타 디지털 인재육성 프로그램|2024.04~ 2024.08|[[수료증](https://github.com/moonsejin315/Python/blob/main/ML/%E1%84%8C%E1%85%A62%E1%84%80%E1%85%B5%20%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A5%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A2%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)]|
+|Google Developer Student Clubs (GDSC) 23-25 Data/ML|2024.08 ~ 진행중|-|
+|Likelion Univ 11th|2023|[[수료증](https://github.com/moonsejin315/Python/blob/main/%E1%84%86%E1%85%A5%E1%86%BA%E1%84%89%E1%85%A111%E1%84%80%E1%85%B5%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg)]|
+|육군 2군단 512 방공대대|2021.01 ~ 2022.07|만기전역|
+|Sangmyung Univ. Software|2020.03 ~ 2025.08|졸업예정|
+
 
 ---
+## 🧠 Skills & Tools
 
-## 🛠️ Stacks
-#### [ Language ]
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+### 🛠️ Language
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="30"/>
+</p>
 
-#### [ Data Analytics ]
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" height="30"/>
+</p>
 
-#### [ Machine Learning & AI ]
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-EBE80D?style=flat-square&logo=&logoColor=black"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/RNN-6A5ACD?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-228B22?style=flat-square&logo=&logoColor=white"/>
+### 🤖 Basic Modeling
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="30"/>
+</p>
 
-#### [ Cloud & DevOps ]
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+### 🛠️ Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" height="30"/>
+</p>
 
+### 💬 Collaboration Tools
+<p>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" height="30"/>
+</p>
 
-#### [ Development Tools ]
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 
 ---
 
 ## 🌴 Currently Learning
-<img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=ApacheAirflow&logoColor=white" height="30"/>
+</p>
 
 
 ---
@@ -49,7 +71,7 @@
 - SQL Developer (SQLD)
 
 ---
-
+## 🐶 My Farm
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=moonsejin315&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/moonsejin315"
@@ -60,11 +82,11 @@
   
 ---
 
-## 💌 BLOG & E-mail & SNS 
-[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?logo=tistory)](https://moonsejin315.tistory.com/)
-<br/>
-<br/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:moonsejin315@gmail.com)
-<br/>
-<br/>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__sejinmoon__)
+## 💌 My Online Presence
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=flat&logo=tistory&logoColor=white&height=30)](https://moonsejin315.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&height=30)](mailto:moonsejin315@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&height=30)](https://www.instagram.com/__sejinmoon__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&height=30)](https://www.linkedin.com/in/%EC%84%B8%EC%A7%84-%EB%AC%B8-9b91832b3/)
+[![Tableau Public](https://img.shields.io/badge/Tableau-006F8E?style=flat&logo=Tableau&logoColor=white&height=30)](https://public.tableau.com/app/profile/sejin.moon/vizzes)
+
+
