@@ -50,12 +50,12 @@
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=moonsejin315&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/moonsejin315"
-    width="600"
-    height="300"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=moonsejin315&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/moonsejin315"
+  width="600"
+  height="300"
+/>
 </a>
   
 ---
