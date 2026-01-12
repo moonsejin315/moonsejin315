@@ -2,20 +2,24 @@
 
 
 ## 👋 Introduction
-- 안녕하세요 데이터로 숨겨진 통찰을 발견하고 가치를 만드는 데이터 분석가를 꿈꾸는 **문세진(MOON SEJIN)** 입니다.
+- **Name** :&nbsp;&nbsp;문세진
+- **University** :&nbsp;&nbsp;상명대학교 소프트웨어학과(졸업)
+- **Email** :&nbsp;&nbsp;moonsejin315@gmail.com
+
 ---
 
 ## ✨ Experiences
 |활동|기간|비고|
 |---|---|---|
-|BDA(Big Data Analysis) 학회 10기|2025 ~ 진행중|지표설계 및 고객분석|
+|SK AI Dream Camp|2025.05 ~ 2025.07|데이터 분석 및 ML 학습|
+|BDA(Big Data Analysis) 학회 10기|2025.03 ~ 2025.07|지표설계 및 고객분석|
 |네이버 부스트코스 코칭스터디 <Generative AI 2024>|2024.10 ~ 2024.11|[[수료증](https://github.com/moonsejin315/BoostCourse/blob/main/certificate_A20241129-102731.pdf)]|
 |네이버 부스트코스 코칭스터디 <Data Science 2024>|2024.07 ~ 2024.08|[[수료증](https://github.com/moonsejin315/BoostCourse/blob/main/BoostCourse%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)]|
 |2기 천안형 스타 디지털 인재육성 프로그램|2024.04~ 2024.08|[[수료증](https://github.com/moonsejin315/Python/blob/main/ML/%E1%84%8C%E1%85%A62%E1%84%80%E1%85%B5%20%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A5%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A2%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)]|
-|Google Developer Student Clubs (GDSC) 23-25 Data/ML|2024.08 ~ 진행중|-|
+|Google Developer Student Clubs (GDSC) 23-25 Data/ML|2023.08 ~ 2025.08|종료|
 |Likelion Univ 11th|2023|[[수료증](https://github.com/moonsejin315/Python/blob/main/%E1%84%86%E1%85%A5%E1%86%BA%E1%84%89%E1%85%A111%E1%84%80%E1%85%B5%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg)]|
 |육군 2군단 512 방공대대|2021.01 ~ 2022.07|만기전역|
-|Sangmyung Univ. Software|2020.03 ~ 2025.08|졸업예정|
+|Sangmyung Univ. Software|2020.03 ~ 2025.08|졸업|
 
 
 ---
@@ -59,16 +63,13 @@
 ---
 
 ## 🌴 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=ApacheAirflow&logoColor=white" height="30"/>
-</p>
 
 
 ---
 
 ## 🏆 Certificate
 - SQL Developer (SQLD)
+- 마케팅기획전문가 1급
 
 ---
 ## 🐶 My Farm
